@@ -54,7 +54,7 @@ This demo is a static representation of an online clothing store. Navigate throu
 
 ## Screenshots
 
-![Home Page](D:/Online/screenshot1.png)
+![Home Page]([D:/Online/screenshot1.png](https://github.com/Kalana0001/clothing-store-demo/blob/main/Assests/screenshots/screenshot1.png))
 ![Product Listing](screenshots/product-listing.png)
 
 ## Contributing
