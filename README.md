@@ -6,7 +6,7 @@ This is a demo for a clothing store website. It showcases the design and basic f
 
 ## Demo Link
 
-You can view the live demo [here](https://kalana0001.github.io/Clothing-Store-Demo/).
+You can view the live demo [here](https://kalana0001.github.io/clothing-store-demo/).
 
 ## Table of Contents
 
@@ -55,7 +55,9 @@ This demo is a static representation of an online clothing store. Navigate throu
 ## Screenshots
 
 ![Home Page](/Assests/screenshots/screenshot1.png)
-![Product Listing](screenshots/product-listing.png)
+![Product Listing 1](/Assests/screenshots/screenshot1.png)
+![Product Listing 2](/Assests/screenshots/screenshot2.png)
+![Footer](/Assests/screenshots/screenshot3.png)
 
 ## Contributing
 
