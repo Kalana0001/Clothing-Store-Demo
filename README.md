@@ -25,8 +25,6 @@ You can view the live demo [here](https://kalana0001.github.io/Clothing-Store-De
 - Responsive design for various devices
 - Product listings with images and prices
 - Shopping cart functionality
-- Checkout process
-- Contact form
 
 ## Technologies Used
 
@@ -56,9 +54,8 @@ This demo is a static representation of an online clothing store. Navigate throu
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page](D:/Online/screenshot1.png)
 ![Product Listing](screenshots/product-listing.png)
-![Shopping Cart](screenshots/shopping-cart.png)
 
 ## Contributing
 
@@ -85,5 +82,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [your-kalanasilva0101@gmail.com](mailto:your-kalanasilva0101@gmail.com).
 
