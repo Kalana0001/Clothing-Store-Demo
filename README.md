@@ -55,9 +55,9 @@ This demo is a static representation of an online clothing store. Navigate throu
 ## Screenshots
 
 ![Home Page](/Assests/screenshots/screenshot1.png)
-![Product Listing 1](/Assests/screenshots/screenshot1.png)
-![Product Listing 2](/Assests/screenshots/screenshot2.png)
-![Footer](/Assests/screenshots/screenshot3.png)
+![Product Listing 1](/Assests/screenshots/screenshot2.png)
+![Product Listing 2](/Assests/screenshots/screenshot3.png)
+![Footer](/Assests/screenshots/screenshot4.png)
 
 ## Contributing
 
