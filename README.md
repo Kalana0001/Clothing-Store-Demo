@@ -1,6 +1,6 @@
 # Clothing Store Demo
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/kalana0001.github.io/Clothing-Store-Demo.svg)](https://kalana0001.github.io/clothing-store-demo/)
+[![Website Status](https://img.shields.io/website-up-down-green-red/https/kalana0001.github.io/clothing-store-demo.svg)](https://kalana0001.github.io/clothing-store-demo/)
 
 This is a demo for a clothing store website. It showcases the design and basic functionality for an online retail platform.
 
